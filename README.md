@@ -38,9 +38,9 @@ The implemented project achieved significant reductions in image sizes through c
 
 ##  Reference
 
-- \item Image DCT: {https://www.math.cuhk.edu.hk/~lmlui/dct.pdf}
-- \item Image Huffman: {https://www.nayuki.io/page/reference-huffman-coding}
-- \item AES: {https://blog.nindalf.com/posts/implementing-aes/}
+- Image DCT: {https://www.math.cuhk.edu.hk/~lmlui/dct.pdf}
+- Image Huffman: {https://www.nayuki.io/page/reference-huffman-coding}
+- AES: {https://blog.nindalf.com/posts/implementing-aes/}
 
 For details, please refer to [Report.pdf](https://github.com/ChitrakshGupta/Image-Encryption-by-AES-Algorithm-upon-Image-Compression-by-DCT-and-Huffman-Coding/blob/master/Project.pdf)
 
